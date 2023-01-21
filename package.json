@@ -1,7 +1,7 @@
 {
   "name": "metaverse13",
   "version": "0.1.0",
-  "homepage": "https://EdwardTymoshuk.github.io/metaversus-next-react-app/out",
+  "homepage": "https://EdwardTymoshuk.github.io/metaversus-next-react-app/out/",
   "private": true,
   "scripts": {
     "dev": "next dev",
